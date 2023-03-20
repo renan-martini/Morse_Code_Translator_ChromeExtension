@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Morse code translator",
+  "description": "Translates morse code on sites for roman characters",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
